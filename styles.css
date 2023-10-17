@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.banner {
+  overflow: hidden;
+  background-color: tan;
+}
+
+nav ul li {
+  list-style: none;
+  margin: 20;
+  float: right;
+}
+
+nav a {
+  color: black;
+  text-transform: uppercase;
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
+.one {
+  text-align: center;
+  padding: 35;
+}
+
+img {
+  margin: 50;
+  border-radius: 20%;
+  box-shadow: 5px 10px 5px;
+  position: absolute;
+  left: 50px;
+}
+
+.image2 {
+  position: absolute;
+  left: 900;
+  margin-top: -65px;
+  
+}
+
+p {
+  text-align: center;
+  border: 2px solid;
+  background-color: tan;
+  font-family: fantasy;
+}
