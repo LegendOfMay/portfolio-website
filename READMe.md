@@ -12,4 +12,4 @@ I look forward to adding more to this website. I am a complete beginner with no 
 
 I need to add a footer and social media links to the profile. 
 
-Have a good day, you dont have to go home BUT . . . 🫡 
+Have a good day 🫡 
